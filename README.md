@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 -->
 
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=ffff)
+![](https://img.shields.io/badge/-Python-ffff00?style=flat-square&logo=Python&logoColor=ffff)
 ![](https://img.shields.io/badge/-Keras-e34f26?style=flat-square&logo=Keras&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
+![](https://img.shields.io/badge/-RStudio-ffff00?style=flat-square&logo=R&logoColor=0000ff)
+
