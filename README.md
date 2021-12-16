@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=noobcoding&show_icons=true alt="noobcoding"&title_color=ffff00&icon_color=ffff00 /> 
 </a>
--->
+
 
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=00ff00)
