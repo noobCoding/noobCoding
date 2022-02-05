@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 -->
 ![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=00ff00)
+![](https://img.shields.io/badge/-pyTorch-000000?style=flat-square&logo=pyTorch&logoColor=ff0000)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=12abff)
 ![](https://img.shields.io/badge/-Keras-e34f26?style=flat-square&logo=Keras&logoColor=fff)
 ![](https://img.shields.io/badge/-RStudio-ffff69?style=flat-square&logo=R&logoColor=0000ff)
