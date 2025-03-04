@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 </a>
 
 -->
-![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=00ff00)
+![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-pyTorch-000000?style=flat-square&logo=pyTorch&logoColor=ff0000)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=12abff)
 ![](https://img.shields.io/badge/-Keras-e34f26?style=flat-square&logo=Keras&logoColor=fff)
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats
-![noobCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noobcoding&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobcoding&layout=compact&theme=radical&langs_count=8)
+![noobCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noobcoding&show_icons=true&theme=radical)
