@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobcoding&layout=compact&theme=radical&langs_count=8)
-![noobCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noobcoding&show_icons=true&theme=radical)
+<!--![noobCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noobcoding&show_icons=true&theme=radical) -->
